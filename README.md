@@ -3,4 +3,4 @@ Bakalářské studium <br>
 Vojtěch Machala (R25700) <br>
 Geografie pro vzdělávání - maior/Informační technologie se zaměřením na vzdělávání - minor<br>
 Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
+Přírodovědecká a pedagogická fakulta, UPOL
